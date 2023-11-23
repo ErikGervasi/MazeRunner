@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1700411262 source:c:\users\erikl\onedrive\Área de trabalho\trabalho3_labirinto\labirintom3\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<fstream>
+
